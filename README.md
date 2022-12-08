@@ -20,12 +20,27 @@ Website sections:
 
     Navigation options:
 
-    - Home
-    - About us
-    - Our cars
-    - Contact
+    1. a: Home
+    2. a: About us
+    3. a: Our cars
+    4. a: Contact
 
-2.  header - make reservation
+2.  header - make reservation [done]
+
+    background link: https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/
+
+    form: make reservation
+
+    1. select: select a pickup location
+    2. date: pick-up date
+    3. time: pick-up time
+    4. date: drop-off date
+    5. time: drop-off time
+    6. button: Search
+
+    h2: Car Rental – Search
+
+    p: Find the best car for you in a few moments
 
 3.  main
 
