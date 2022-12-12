@@ -17,15 +17,12 @@ Website sections:
 
 ### Logo:
 
-<h1> SCR
-<p> Sports Cars Rental
+Title: SCR
+Subtitle: Sports Cars Rental
 
-### Navigation options:
+### Navigation
 
-<a> Home
-<a> About us
-<a> Our cars
-<a> Contact
+Navigation options: Home, About us, Our cars, Contact
 
 ## 2. header - make reservation [done]
 
