@@ -68,13 +68,9 @@ Button: Choose your car
 
 [https://pixabay.com/pl/photos/lamborghini-huracan-4815249/](https://pixabay.com/pl/photos/lamborghini-huracan-4815249/)
 
-#### Title:
+#### Title: Lamborghini Huracan
 
-p: Lamborghini Huracan
-
-#### Main price:
-
-p: Price: 50.000 zł
+#### Main price: 50.000 zł
 
 #### Specyfication:
 
@@ -86,7 +82,7 @@ p: Price: 50.000 zł
 
 #### Price list:
 
-- 2-3 days = 4500 zł / za dobę
+- 2-3 days = 4500 zł / za dobę,
 - 4-6 days = 3500 zł / za dobę
 - 7-13 days = 2750 zł / za dobę
 - 14-29 days = 2500 zł / za dobę
@@ -104,13 +100,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/](https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/)
 
-#### Title:
+#### Title: Ferrari F430
 
-p: Ferrari F430
-
-#### Main price:
-
-p: Price: 45.000 zł
+#### Main price: 45.000 zł
 
 #### Specyfication:
 
@@ -140,13 +132,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/](https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/)
 
-#### Title:
+#### Title: Ford Mustang GT500
 
-p: Ford Mustang GT500
-
-#### Main price:
-
-p: Price: 40.000 zł
+#### Main price: 40.000 zł
 
 #### Specyfication:
 
@@ -176,13 +164,9 @@ p: This car is not available at the moment!
 
 [https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/](https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/)
 
-#### Title:
+#### Title: Chevrolet corvette
 
-p: Chevrolet corvette
-
-#### Main price:
-
-p: Price: 30.000 zł
+#### Main price: 30.000 zł
 
 #### Specyfication:
 
@@ -212,13 +196,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/](https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/)
 
-#### Title:
+#### Title: Bugatti Chiron
 
-p: Bugatti Chiron
-
-#### Main price:
-
-p: Price: 120.000 zł
+#### Main price: 120.000 zł
 
 #### Specyfication:
 
@@ -248,13 +228,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/](https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/)
 
-#### Title:
+#### Title: Bentley
 
-p: Bentley
-
-#### Main price:
-
-p: Price: 220.000 zł
+#### Main price: 220.000 zł
 
 #### Specyfication:
 
@@ -284,13 +260,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/](https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/)
 
-#### Title:
+#### Title: BMW M4
 
-p: BMW M4
-
-#### Main price:
-
-p: Price: 15.000 zł
+#### Main price: 15.000 zł
 
 #### Specyfication:
 
@@ -320,13 +292,9 @@ p: This car is not available at the moment!
 
 [https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/](https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/)
 
-#### Title:
+#### Title: Mercedes-Benz G-Class
 
-p: Mercedes-Benz G-Class
-
-#### Main price:
-
-p: Price: 18.000 zł
+#### Main price: 18.000 zł
 
 #### Specyfication:
 
@@ -356,13 +324,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/](https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/)
 
-#### Title:
+#### Title: Ferrari Testarossa
 
-p: Ferrari Testarossa
-
-#### Main price:
-
-p: Price: 65.000 zł
+#### Main price: 65.000 zł
 
 #### Specyfication:
 
@@ -392,13 +356,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/](https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/)
 
-#### Title:
+#### Title: Chevrolet Corvette C3
 
-p: Chevrolet Corvette C3
-
-#### Main price:
-
-p: Price: 40.000 zł
+#### Main price: 40.000 zł
 
 #### Specyfication:
 
@@ -428,13 +388,9 @@ p: This car is available at the moment!
 
 [https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/](https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/)
 
-#### Title:
+#### Title: Ford Mustang
 
-p: Ford Mustang
-
-#### Main price:
-
-p: Price: 18.000 zł
+#### Main price: 18.000 zł
 
 #### Specyfication:
 
@@ -464,13 +420,9 @@ p: This car is not available at the moment!
 
 [https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/](https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/)
 
-#### Title:
+#### Title: Dodge Challenger
 
-p: Dodge Challenger
-
-#### Main price:
-
-p: Price: 45.000 zł
+#### Main price: 45.000 zł
 
 #### Specyfication:
 
@@ -496,15 +448,12 @@ p: This car is available at the moment!
 
 ## 5. section - opinions
 
-## 6. section - statistics [done]
+## 6. section - statistics 👍
 
-cars on offer: 12
-
-assistance: 24h / 7
-
-experience: 23 years
-
-locations: 5
+- cars on offer: 12
+- assistance: 24h / 7
+- experience: 23 years
+- locations: 5
 
 ## 7. footer
 
