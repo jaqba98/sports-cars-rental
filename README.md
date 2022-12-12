@@ -448,6 +448,30 @@ p: This car is available at the moment!
 
 ## 5. section - opinions
 
+### Opinion 1
+
+![https://unsplash.com/photos/WNoLnJo7tS8](https://unsplash.com/photos/WNoLnJo7tS8)
+
+Jan Kowalski
+
+Description
+
+### Opinion 2
+
+![https://unsplash.com/photos/XHVpWcr5grQ](https://unsplash.com/photos/XHVpWcr5grQ)
+
+Jan Kowalski
+
+Description
+
+### Opinion 3
+
+![https://unsplash.com/photos/EQFtEzJGERg](https://unsplash.com/photos/EQFtEzJGERg)
+
+Jan Kowalski
+
+Description
+
 ## 6. section - statistics 👍
 
 - cars on offer: 12
