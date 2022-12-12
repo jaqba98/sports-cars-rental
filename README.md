@@ -60,79 +60,77 @@ Text: Familiarize yourself with our offers, choose the best car for you and make
 
 Button: Choose your car
 
-## 4. main: section - our cars
+## 4. section - our cars 👍
 
-    2.  section - our cars
+1. Lamborghini Huracan
+   Image link: https://pixabay.com/pl/photos/lamborghini-huracan-4815249/
 
-        1. Lamborghini Huracan
-           Image link: https://pixabay.com/pl/photos/lamborghini-huracan-4815249/
+   p: Lamborghini Huracan
 
-           p: Lamborghini Huracan
+   p: Price: ???
 
-           p: Price: ???
+   ul: Specyfication:
+   power = 610 KM / 560 Nm
+   0-100 = 3.2 s
+   gearbox = Automatic
+   number of seats = 2
+   max speed = 325 km/h
 
-           ul: Specyfication:
-           power = 610 KM / 560 Nm
-           0-100 = 3.2 s
-           gearbox = Automatic
-           number of seats = 2
-           max speed = 325 km/h
+   ul: Price list:
+   2-3 days = ???
+   4-6 days = ???
+   7-13 days = ???
+   14-29 days = ???
+   month = ???
 
-           ul: Price list:
-           2-3 days = ???
-           4-6 days = ???
-           7-13 days = ???
-           14-29 days = ???
-           month = ???
+   button: Rent this car
 
-           button: Rent this car
+   p: This car is not available at the moment!
 
-           p: This car is not available at the moment!
+2. Ferrari F430
+   Image link: https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/
 
-        2. Ferrari F430
-           Image link: https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/
+3. Ford Mustang GT500
+   Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/
 
-        3. Ford Mustang GT500
-           Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/
+4. Chevrolet corvette
+   Image link: https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/
 
-        4. Chevrolet corvette
-           Image link: https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/
+5. Bugatti Chiron
+   Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/
 
-        5. Bugatti Chiron
-           Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/
+6. Bentley
+   Image link: https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/
 
-        6. Bentley
-           Image link: https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/
+7. BMW M4
+   Image link: https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/
 
-        7. BMW M4
-           Image link: https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/
+8. Mercedes-Benz G-Class
+   Image link: https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/
 
-        8. Mercedes-Benz G-Class
-           Image link: https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/
+9. Ferrari Testarossa
+   Image link: https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/
 
-        9. Ferrari Testarossa
-           Image link: https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/
+10. Chevrolet Corvette C3
+    Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/
 
-        10. Chevrolet Corvette C3
-            Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/
+11. Ford Mustang
+    Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/
 
-        11. Ford Mustang
-            Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/
+12. Dodge Challenger
+    Image link: https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/
 
-        12. Dodge Challenger
-            Image link: https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/
+    3. section - opinions
 
-    3.  section - opinions
+    4. section - statistics [done]
 
-    4.  section - statistics [done]
+       cars on offer: 12
 
-        cars on offer: 12
+       assistance: 24h / 7
 
-        assistance: 24h / 7
+       experience: 23 years
 
-        experience: 23 years
-
-        locations: 5
+       locations: 5
 
 ## 4. footer
 
