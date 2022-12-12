@@ -1,23 +1,21 @@
-# sports-cars-rental
+# I. Sports Cars Rental
 
 Website about sports car rental.
 
-Website name:
-Sports Cars Rental
+Website name: Sports Cars Rental
 
 Website description:
-The Sports Cars Rental is website about renting of sports and luxury cars.
-It's a website for young people with a lot of money.
+The Sports Cars Rental is website about renting of sports and luxury cars. It's a website for young people with a lot of money.
 The main goal of this website is give the ability to rent of cars in easy and fast way.
 This website contain only one single page and all content is represented by single page application.
 
-Website sections:
+# II. Website sections:
 
 ## 1. nav - navigation 👍
 
 ### Logo:
 
-Title: SCR <br>
+Title: SCR
 
 Subtitle: Sports Cars Rental
 
