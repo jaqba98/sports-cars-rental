@@ -27,12 +27,13 @@ Navigation options: Home, About us, Our cars, Contact
 
 ### Background
 
-Background video link: <br>
+Background video link:
+
 [https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/](https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/)
 
 ### Form: make reservation
 
-Form inputs: <br>
+Form inputs:
 
 - select: select a pickup location
 - date: pick-up date
@@ -49,13 +50,13 @@ Motto text: Find the best car for you in a few moments.
 
 ## 3. section - about us 👍
 
-Title: About us <br>
+Title: About us
 
-Text: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang, Chevrolet Corvette, Bugatti Chiron, Bentley etc. We also have more classic cars for enthusiasts of classic motoring like: Ferrari Testarossa, Chevrolet Corvette C3, Ford Mustang. All the cars are in great condition! <br>
+Text: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang, Chevrolet Corvette, Bugatti Chiron, Bentley etc. We also have more classic cars for enthusiasts of classic motoring like: Ferrari Testarossa, Chevrolet Corvette C3, Ford Mustang. All the cars are in great condition!
 
-Text: We have been operating since 1999 with a very long tradition. We started as a small company with a few sports cars, and now we serve clients and companies from all over Poland! Our cars also occurs in the many car events. We have got a lot of awards and distinctions! <br>
+Text: We have been operating since 1999 with a very long tradition. We started as a small company with a few sports cars, and now we serve clients and companies from all over Poland! Our cars also occurs in the many car events. We have got a lot of awards and distinctions!
 
-Text: Familiarize yourself with our offers, choose the best car for you and make your dream come true! <br>
+Text: Familiarize yourself with our offers, choose the best car for you and make your dream come true!
 
 Button: Choose your car
 
