@@ -114,11 +114,11 @@ p: Price: 45.000 zł
 
 #### Specyfication:
 
-- power = 360 KM / 465 Nm
-- 0-100 = 4.0 s
-- gearbox = 6-speed manual
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
 - number of seats = 2
-- max speed = 315 km/h
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -150,11 +150,11 @@ p: Price: 40.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -186,11 +186,11 @@ p: Price: 30.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -222,11 +222,11 @@ p: Price: 120.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -258,11 +258,11 @@ p: Price: 220.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -294,11 +294,11 @@ p: Price: 15.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -330,11 +330,11 @@ p: Price: 18.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -366,11 +366,11 @@ p: Price: 65.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -402,11 +402,11 @@ p: Price: 40.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -438,11 +438,11 @@ p: Price: 18.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
@@ -474,11 +474,11 @@ p: Price: 45.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
 
 #### Price list:
 
