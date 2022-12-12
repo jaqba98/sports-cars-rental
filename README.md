@@ -98,52 +98,415 @@ button: Rent this car
 
 p: This car is not available at the moment!
 
-2. Ferrari F430
-   Image link: https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/
+### 2. Ferrari F430
 
-3. Ford Mustang GT500
-   Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/
+#### Image link:
 
-4. Chevrolet corvette
-   Image link: https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/
+[https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/](https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/)
 
-5. Bugatti Chiron
-   Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/
+#### Title:
 
-6. Bentley
-   Image link: https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/
+p: ???
 
-7. BMW M4
-   Image link: https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/
+#### Main price:
 
-8. Mercedes-Benz G-Class
-   Image link: https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/
+p: Price: ???
 
-9. Ferrari Testarossa
-   Image link: https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/
+#### Specyfication:
 
-10. Chevrolet Corvette C3
-    Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
 
-11. Ford Mustang
-    Image link: https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/
+#### Price list:
 
-12. Dodge Challenger
-    Image link: https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
 
-    3. section - opinions
+#### Footer:
 
-    4. section - statistics [done]
+button: Rent this car
 
-       cars on offer: 12
+p: This car is not available at the moment!
 
-       assistance: 24h / 7
+### 3. Ford Mustang GT500
 
-       experience: 23 years
+#### Image link:
 
-       locations: 5
+[https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/](https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/)
 
-## 4. footer
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 4. Chevrolet corvette
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/](https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 5. Bugatti Chiron
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/](https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 6. Bentley
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/](https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 7. BMW M4
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/](https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 8. Mercedes-Benz G-Class
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/](https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 9. Ferrari Testarossa
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/](https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 10. Chevrolet Corvette C3
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/](https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 11. Ford Mustang
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/](https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+### 12. Dodge Challenger
+
+#### Image link:
+
+[https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/](https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/)
+
+#### Title:
+
+p: ???
+
+#### Main price:
+
+p: Price: ???
+
+#### Specyfication:
+
+- power = ??? KM / ??? Nm
+- 0-100 = ??? s
+- gearbox = ???
+- number of seats = ???
+- max speed = ??? km/h
+
+#### Price list:
+
+- 2-3 days = ??? zł / za dobę
+- 4-6 days = ??? zł / za dobę
+- 7-13 days = ??? zł / za dobę
+- 14-29 days = ??? zł / za dobę
+- month = ??? zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
+
+## 5. section - our cars
+
+## 6. section - statistics [done]
+
+cars on offer: 12
+
+assistance: 24h / 7
+
+experience: 23 years
+
+locations: 5
+
+## 7. footer
 
 ### 1. section - localization on the map
 
