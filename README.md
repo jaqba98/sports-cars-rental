@@ -522,6 +522,12 @@ Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
 
 ## 1. nav - navigation
 
-### Nav Mobile
+### Nav Mobile 👍
 
 ![Nav mobile](concepts/nav-mobile.png)
+
+### Tablet Mobile 😒
+
+### Pc Mobile 😒
+
+### 4k Mobile 😒
