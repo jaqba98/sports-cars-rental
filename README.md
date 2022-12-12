@@ -514,7 +514,7 @@ locations: 5
 
 ### 3. section - footer navigation
 
-### 4. section - copyright [Done]
+### 4. section - copyright 👍
 
 Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
 
