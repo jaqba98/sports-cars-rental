@@ -13,18 +13,19 @@ This website contain only one single page and all content is represented by sing
 
 Website sections:
 
-## 1. nav - navigation [done]
+## 1. nav - navigation 👍
 
-    Logo:
-    h1: SCR
-    p: Sports Cars Rental
+### Logo:
 
-    Navigation options:
+<h1> SCR
+<p> Sports Cars Rental
 
-    1. a: Home
-    2. a: About us
-    3. a: Our cars
-    4. a: Contact
+### Navigation options:
+
+<a> Home
+<a> About us
+<a> Our cars
+<a> Contact
 
 ## 2. header - make reservation [done]
 
