@@ -494,7 +494,7 @@ button: Rent this car
 
 p: This car is not available at the moment!
 
-## 5. section - our cars
+## 5. section - opinions
 
 ## 6. section - statistics [done]
 
