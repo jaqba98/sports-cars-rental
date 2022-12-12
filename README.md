@@ -62,30 +62,41 @@ Button: Choose your car
 
 ## 4. section - our cars 👍
 
-1. Lamborghini Huracan
-   Image link: https://pixabay.com/pl/photos/lamborghini-huracan-4815249/
+### 1. Lamborghini Huracan
 
-   p: Lamborghini Huracan
+#### Image link:
 
-   p: Price: ???
+[https://pixabay.com/pl/photos/lamborghini-huracan-4815249/](https://pixabay.com/pl/photos/lamborghini-huracan-4815249/)
 
-   ul: Specyfication:
-   power = 610 KM / 560 Nm
-   0-100 = 3.2 s
-   gearbox = Automatic
-   number of seats = 2
-   max speed = 325 km/h
+#### Title:
 
-   ul: Price list:
-   2-3 days = ???
-   4-6 days = ???
-   7-13 days = ???
-   14-29 days = ???
-   month = ???
+p: Lamborghini Huracan
 
-   button: Rent this car
+#### Main price:
 
-   p: This car is not available at the moment!
+p: Price: 50.000 zł
+
+#### Specyfication:
+
+- power = 610 KM / 560 Nm
+- 0-100 = 3.2 s
+- gearbox = Automatic
+- number of seats = 2
+- max speed = 325 km/h
+
+#### Price list:
+
+2-3 days = 4500 zł / za dobę
+4-6 days = 3500 zł / za dobę
+7-13 days = 2750 zł / za dobę
+14-29 days = 2500 zł / za dobę
+month = 50.000 zł
+
+#### Footer:
+
+button: Rent this car
+
+p: This car is not available at the moment!
 
 2. Ferrari F430
    Image link: https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/
