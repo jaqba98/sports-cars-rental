@@ -49,19 +49,19 @@ Motto title: Make your dreams come true!
 
 Motto text: Find the best car for you in a few moments.
 
-## 3. main
+## 3. section - about us 👍
 
-    1.  section - about us [done]
+Title: About us <br>
 
-        h2: About us
+Text: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang, Chevrolet Corvette, Bugatti Chiron, Bentley etc. We also have more classic cars for enthusiasts of classic motoring like: Ferrari Testarossa, Chevrolet Corvette C3, Ford Mustang. All the cars are in great condition! <br>
 
-        p: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang, Chevrolet Corvette, Bugatti Chiron, Bentley etc. We also have more classic cars for enthusiasts of classic motoring like: Ferrari Testarossa, Chevrolet Corvette C3, Ford Mustang. All the cars are in great condition!
+Text: We have been operating since 1999 with a very long tradition. We started as a small company with a few sports cars, and now we serve clients and companies from all over Poland! Our cars also occurs in the many car events. We have got a lot of awards and distinctions! <br>
 
-        p: We have been operating since 1999 with a very long tradition. We started as a small company with a few sports cars, and now we serve clients and companies from all over Poland! Our cars also occurs in the many car events. We have got a lot of awards and distinctions!
+Text: Familiarize yourself with our offers, choose the best car for you and make your dream come true! <br>
 
-        p: Familiarize yourself with our offers, choose the best car for you and make your dream come true!
+Button: Choose your car
 
-        button: Choose your car
+## 4. main: section - our cars
 
     2.  section - our cars
 
