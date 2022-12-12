@@ -13,7 +13,8 @@ This website contain only one single page and all content is represented by sing
 
 Website sections:
 
-1.  nav - navigation [done]
+## 1. nav - navigation [done]
+
     Logo:
     h1: SCR
     p: Sports Cars Rental
@@ -25,7 +26,7 @@ Website sections:
     3. a: Our cars
     4. a: Contact
 
-2.  header - make reservation [done]
+## 2. header - make reservation [done]
 
     background link: https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/
 
@@ -42,7 +43,7 @@ Website sections:
 
     p: Find the best car for you in a few moments
 
-3.  main
+## 3. main
 
     1.  section - about us [done]
 
@@ -128,14 +129,14 @@ Website sections:
 
         locations: 5
 
-4.  footer
+## 4. footer
 
-    1. section - localization on the map
+### 1. section - localization on the map
 
-    2. section - contact form
+### 2. section - contact form
 
-    3. section - footer navigation
+### 3. section - footer navigation
 
-    4. section - copyright [Done]
+### 4. section - copyright [Done]
 
-    Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
+Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
