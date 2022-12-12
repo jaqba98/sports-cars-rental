@@ -17,7 +17,8 @@ Website sections:
 
 ### Logo:
 
-Title: SCR
+Title: SCR <br>
+
 Subtitle: Sports Cars Rental
 
 ### Navigation
