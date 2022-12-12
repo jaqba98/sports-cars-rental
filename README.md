@@ -25,22 +25,29 @@ Subtitle: Sports Cars Rental
 
 Navigation options: Home, About us, Our cars, Contact
 
-## 2. header - make reservation [done]
+## 2. header - make reservation 👍
 
-    background link: https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/
+### Background
 
-    form: make reservation
+Background video link: <br>
+[https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/](https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/)
 
-    1. select: select a pickup location
-    2. date: pick-up date
-    3. time: pick-up time
-    4. date: drop-off date
-    5. time: drop-off time
-    6. button: Search
+### Form: make reservation
 
-    h2: Car Rental – Search
+Form inputs: <br>
 
-    p: Find the best car for you in a few moments
+- select: select a pickup location
+- date: pick-up date
+- time: pick-up time
+- date: drop-off date
+- time: drop-off time
+- button: Search
+
+### Motto: motto of header
+
+Motto title: Make your dreams come true!
+
+Motto text: Find the best car for you in a few moments.
 
 ## 3. main
 
