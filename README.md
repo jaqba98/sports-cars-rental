@@ -96,7 +96,7 @@ p: Price: 50.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 2. Ferrari F430
 
@@ -132,7 +132,7 @@ p: Price: 45.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 3. Ford Mustang GT500
 
@@ -204,7 +204,7 @@ p: Price: 30.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 5. Bugatti Chiron
 
@@ -240,7 +240,7 @@ p: Price: 120.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 6. Bentley
 
@@ -276,7 +276,7 @@ p: Price: 220.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 7. BMW M4
 
@@ -348,7 +348,7 @@ p: Price: 18.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 9. Ferrari Testarossa
 
@@ -384,7 +384,7 @@ p: Price: 65.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 10. Chevrolet Corvette C3
 
@@ -420,7 +420,7 @@ p: Price: 40.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ### 11. Ford Mustang
 
@@ -492,7 +492,7 @@ p: Price: 45.000 zł
 
 button: Rent this car
 
-p: This car is not available at the moment!
+p: This car is available at the moment!
 
 ## 5. section - opinions
 
