@@ -110,23 +110,23 @@ p: Ferrari F430
 
 #### Main price:
 
-p: Price: ???
+p: Price: 45.000 zł
 
 #### Specyfication:
 
-- power = ??? KM / ??? Nm
-- 0-100 = ??? s
-- gearbox = ???
-- number of seats = ???
-- max speed = ??? km/h
+- power = 360 KM / 465 Nm
+- 0-100 = 4.0 s
+- gearbox = 6-speed manual
+- number of seats = 2
+- max speed = 315 km/h
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 4000 zł / za dobę
+- 4-6 days = 3400 zł / za dobę
+- 7-13 days = 2500 zł / za dobę
+- 14-29 days = 2200 zł / za dobę
+- month = 45.000 zł
 
 #### Footer:
 
@@ -146,7 +146,7 @@ p: Ford Mustang GT500
 
 #### Main price:
 
-p: Price: ???
+p: Price: 40.000 zł
 
 #### Specyfication:
 
@@ -158,11 +158,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 3500 zł / za dobę
+- 4-6 days = 3000 zł / za dobę
+- 7-13 days = 2500 zł / za dobę
+- 14-29 days = 2000 zł / za dobę
+- month = 40.000 zł
 
 #### Footer:
 
@@ -182,7 +182,7 @@ p: Chevrolet corvette
 
 #### Main price:
 
-p: Price: ???
+p: Price: 30.000 zł
 
 #### Specyfication:
 
@@ -194,11 +194,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 2000 zł / za dobę
+- 4-6 days = 1700 zł / za dobę
+- 7-13 days = 1500 zł / za dobę
+- 14-29 days = 1200 zł / za dobę
+- month = 30.000 zł
 
 #### Footer:
 
@@ -218,7 +218,7 @@ p: Bugatti Chiron
 
 #### Main price:
 
-p: Price: ???
+p: Price: 120.000 zł
 
 #### Specyfication:
 
@@ -230,11 +230,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 8000 zł / za dobę
+- 4-6 days = 7500 zł / za dobę
+- 7-13 days = 7200 zł / za dobę
+- 14-29 days = 6700 zł / za dobę
+- month = 120.000 zł
 
 #### Footer:
 
@@ -254,7 +254,7 @@ p: Bentley
 
 #### Main price:
 
-p: Price: ???
+p: Price: 220.000 zł
 
 #### Specyfication:
 
@@ -266,11 +266,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 10000 zł / za dobę
+- 4-6 days = 9500 zł / za dobę
+- 7-13 days = 9000 zł / za dobę
+- 14-29 days = 8500 zł / za dobę
+- month = 220.000 zł
 
 #### Footer:
 
@@ -290,7 +290,7 @@ p: BMW M4
 
 #### Main price:
 
-p: Price: ???
+p: Price: 15.000 zł
 
 #### Specyfication:
 
@@ -302,11 +302,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 2000 zł / za dobę
+- 4-6 days = 1500 zł / za dobę
+- 7-13 days = 1200 zł / za dobę
+- 14-29 days = 700 zł / za dobę
+- month = 15.000 zł
 
 #### Footer:
 
@@ -326,7 +326,7 @@ p: Mercedes-Benz G-Class
 
 #### Main price:
 
-p: Price: ???
+p: Price: 18.000 zł
 
 #### Specyfication:
 
@@ -338,11 +338,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 2200 zł / za dobę
+- 4-6 days = 1600 zł / za dobę
+- 7-13 days = 1400 zł / za dobę
+- 14-29 days = 900 zł / za dobę
+- month = 18.000 zł
 
 #### Footer:
 
@@ -362,7 +362,7 @@ p: Ferrari Testarossa
 
 #### Main price:
 
-p: Price: ???
+p: Price: 65.000 zł
 
 #### Specyfication:
 
@@ -374,11 +374,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 6000 zł / za dobę
+- 4-6 days = 5500 zł / za dobę
+- 7-13 days = 5000 zł / za dobę
+- 14-29 days = 4500 zł / za dobę
+- month = 65.000 zł
 
 #### Footer:
 
@@ -398,7 +398,7 @@ p: Chevrolet Corvette C3
 
 #### Main price:
 
-p: Price: ???
+p: Price: 40.000 zł
 
 #### Specyfication:
 
@@ -410,11 +410,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 4000 zł / za dobę
+- 4-6 days = 3500 zł / za dobę
+- 7-13 days = 2000 zł / za dobę
+- 14-29 days = 1500 zł / za dobę
+- month = 40.000 zł
 
 #### Footer:
 
@@ -434,7 +434,7 @@ p: Ford Mustang
 
 #### Main price:
 
-p: Price: ???
+p: Price: 18.000 zł
 
 #### Specyfication:
 
@@ -446,11 +446,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 3000 zł / za dobę
+- 4-6 days = 2500 zł / za dobę
+- 7-13 days = 1000 zł / za dobę
+- 14-29 days = 800 zł / za dobę
+- month = 18.000 zł
 
 #### Footer:
 
@@ -470,7 +470,7 @@ p: Dodge Challenger
 
 #### Main price:
 
-p: Price: ???
+p: Price: 45.000 zł
 
 #### Specyfication:
 
@@ -482,11 +482,11 @@ p: Price: ???
 
 #### Price list:
 
-- 2-3 days = ??? zł / za dobę
-- 4-6 days = ??? zł / za dobę
-- 7-13 days = ??? zł / za dobę
-- 14-29 days = ??? zł / za dobę
-- month = ??? zł
+- 2-3 days = 4000 zł / za dobę
+- 4-6 days = 3500 zł / za dobę
+- 7-13 days = 2500 zł / za dobę
+- 14-29 days = 2000 zł / za dobę
+- month = 45.000 zł
 
 #### Footer:
 
