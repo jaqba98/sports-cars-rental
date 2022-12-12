@@ -86,11 +86,11 @@ p: Price: 50.000 zł
 
 #### Price list:
 
-2-3 days = 4500 zł / za dobę
-4-6 days = 3500 zł / za dobę
-7-13 days = 2750 zł / za dobę
-14-29 days = 2500 zł / za dobę
-month = 50.000 zł
+- 2-3 days = 4500 zł / za dobę
+- 4-6 days = 3500 zł / za dobę
+- 7-13 days = 2750 zł / za dobę
+- 14-29 days = 2500 zł / za dobę
+- month = 50.000 zł
 
 #### Footer:
 
