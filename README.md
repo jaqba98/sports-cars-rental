@@ -283,17 +283,3 @@ The cars are nice, but the prices are too high.<br>
 ### 4. section - copyright 👍
 
 Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
-
-# III. Website concepts:
-
-## 1. nav - navigation
-
-### Nav Mobile 👍
-
-![Nav mobile](concepts/nav-mobile.png)
-
-### Tablet Mobile 😒
-
-### Pc Mobile 😒
-
-### 4k Mobile 😒
