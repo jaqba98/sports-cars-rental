@@ -183,6 +183,38 @@ Button: Choose your car
 
 #### Footer: button: Rent now (active)
 
+### 6. McLaren 570GT
+
+[https://pixabay.com/pl/photos/mclaren-570s-mclaren-570-3400807/](https://pixabay.com/pl/photos/mclaren-570s-mclaren-570-3400807/)
+
+#### Specyfication:
+
+- power = 570 KM / 600 Nm
+- 0-100 = 3.4 s
+- number of seats = 2
+- max speed = 328 km/h
+- gearbox = Automatic
+
+#### Price: 1415.00 zł / day
+
+#### Footer: button: Not available now (not active)
+
+### 7. Dodge Challenger
+
+[https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/](https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/)
+
+#### Specyfication:
+
+- power = 707 KM / 420 Nm
+- 0-100 = 3.7 s
+- number of seats = 4
+- max speed = 320 km/h
+- gearbox = Automatic
+
+#### Price: 1415.00 zł / day
+
+#### Footer: button: Rent now (active)
+
 ## 5. section - opinions
 
 ### Opinion 1
