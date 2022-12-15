@@ -1,13 +1,16 @@
-# I. Sports Cars Rental
+# I. Sports Cars Rental - description
 
-Website about sports car rental.
+## What the website is about?
 
-Website name: Sports Cars Rental
+The website is about sports car rental. People can find the besc car for their and then rent it.
 
-Website description:
-The Sports Cars Rental is website about renting of sports and luxury cars. It's a website for young people with a lot of money.
-The main goal of this website is give the ability to rent of cars in easy and fast way.
-This website contain only one single page and all content is represented by single page application.
+## Website name
+
+Website name is "Sports Cars Rental".
+
+## Website short description
+
+The Sports Cars Rental is website about renting of sports and luxury cars. It's a website for young people with a lot of money. The main goal of this website is give the ability to rent of cars in easy and fast way. This website contain only one single page and all content is represented by single page application.
 
 # II. Website sections:
 
