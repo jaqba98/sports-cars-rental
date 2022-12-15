@@ -64,6 +64,18 @@ Inputs of form:
 Motto title: Make your dreams come true!<br>
 Motto text: Find the best car for you in a few moments.
 
+### The concept of mobile header
+
+:warning: Add the concept of mobile header !!!
+
+### The concept of tablet header
+
+:warning: Add the concept of tablet header !!!
+
+### The concept of desktop header
+
+:warning: Add the concept of desktop header !!!
+
 ## 3. section - about us 👍
 
 Title: About us
