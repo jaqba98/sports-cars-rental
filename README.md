@@ -234,7 +234,7 @@ Button: Choose your car
 [https://unsplash.com/photos/WNoLnJo7tS8](https://unsplash.com/photos/WNoLnJo7tS8)
 
 Oliver Noah<br>
-Your cars are the best! I finally made my dream come true.<br5>
+Your cars are the best! I finally made my dream come true.<br>
 5/5 stars
 
 ### opinion 2
@@ -242,7 +242,7 @@ Your cars are the best! I finally made my dream come true.<br5>
 [https://unsplash.com/photos/XHVpWcr5grQ](https://unsplash.com/photos/XHVpWcr5grQ)
 
 William James<br>
-I rented a ferrari and it was my best time ever.<br5>
+I rented a ferrari and it was my best time ever.<br>
 4.5/5 stars
 
 ### opinion 3
@@ -250,7 +250,7 @@ I rented a ferrari and it was my best time ever.<br5>
 [https://unsplash.com/photos/EQFtEzJGERg](https://unsplash.com/photos/EQFtEzJGERg)
 
 Jacob James<br>
-The cars are nice, but the prices are too high.<br5>
+The cars are nice, but the prices are too high.<br>
 3.5/5 stars
 
 ### The concept of mobile section - opinions
