@@ -42,17 +42,15 @@ Top navigation options:
 
 :warning: Add the concept of desktop nav !!!
 
-## 2. header - make reservation 👍
+## 2. header - make reservation
 
-### Background
-
-Background video link:
+### Background video
 
 [https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/](https://pixabay.com/pl/videos/seul-ruch-drogowy-samochody-miasto-21118/)
 
-### Form: make reservation
+### Form of make reservation
 
-Form inputs:
+Inputs of form:
 
 - select: select a pickup location
 - date: pick-up date
@@ -61,10 +59,9 @@ Form inputs:
 - time: drop-off time
 - button: Search
 
-### Motto: motto of header
+### Motto of header
 
-Motto title: Make your dreams come true!
-
+Motto title: Make your dreams come true!<br>
 Motto text: Find the best car for you in a few moments.
 
 ## 3. section - about us 👍
