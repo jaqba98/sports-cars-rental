@@ -215,31 +215,55 @@ Button: Choose your car
 
 #### Footer: button: Rent now (active)
 
+### The concept of mobile section - our cars
+
+:warning: Add the concept of mobile section - our cars !!!
+
+### The concept of tablet section - our cars
+
+:warning: Add the concept of tablet section - our cars !!!
+
+### The concept of desktop section - our cars
+
+:warning: Add the concept of desktop section - our cars !!!
+
 ## 5. section - opinions
 
-### Opinion 1
+### opinion 1
 
-![https://unsplash.com/photos/WNoLnJo7tS8](https://unsplash.com/photos/WNoLnJo7tS8)
+[https://unsplash.com/photos/WNoLnJo7tS8](https://unsplash.com/photos/WNoLnJo7tS8)
 
-Jan Kowalski
+Oliver Noah<br>
+Your cars are the best! I finally made my dream come true.
+5/5 stars
 
-Description
+### opinion 2
 
-### Opinion 2
+[https://unsplash.com/photos/XHVpWcr5grQ](https://unsplash.com/photos/XHVpWcr5grQ)
 
-![https://unsplash.com/photos/XHVpWcr5grQ](https://unsplash.com/photos/XHVpWcr5grQ)
+William James<br>
+I rented a ferrari and it was my best time ever.
+4.5/5 stars
 
-Jan Kowalski
+### opinion 3
 
-Description
+[https://unsplash.com/photos/EQFtEzJGERg](https://unsplash.com/photos/EQFtEzJGERg)
 
-### Opinion 3
+Jacob James<br>
+The cars are nice, but the prices are too high.
+3.5/5 stars
 
-![https://unsplash.com/photos/EQFtEzJGERg](https://unsplash.com/photos/EQFtEzJGERg)
+### The concept of mobile section - opinions
 
-Jan Kowalski
+:warning: Add the concept of mobile section - opinions !!!
 
-Description
+### The concept of tablet section - opinions
+
+:warning: Add the concept of tablet section - opinions !!!
+
+### The concept of desktop section - opinions
+
+:warning: Add the concept of desktop section - opinions !!!
 
 ## 6. section - statistics 👍
 
