@@ -14,17 +14,33 @@ The Sports Cars Rental is website about renting of sports and luxury cars. It's 
 
 # II. Website sections:
 
-## 1. nav - navigation 👍
+## 1. nav - top navigation
 
 ### Logo:
 
-Title: SCR
-
+Title: SCR<br>
 Subtitle: Sports Cars Rental
 
-### Navigation
+### Top navigation
 
-Navigation options: Home, About us, Our cars, Contact
+Top navigation options:
+
+- Home,
+- About us,
+- Our cars,
+- Contact
+
+### The concept of mobile nav
+
+:warning: Add the concept of mobile nav !!!
+
+### The concept of tablet nav
+
+:warning: Add the concept of tablet nav !!!
+
+### The concept of desktop nav
+
+:warning: Add the concept of desktop nav !!!
 
 ## 2. header - make reservation 👍
 
