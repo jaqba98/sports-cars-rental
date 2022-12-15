@@ -76,7 +76,7 @@ Motto text: Find the best car for you in a few moments.
 
 :warning: Add the concept of desktop header !!!
 
-## 3. section - about us 👍
+## 3. section - about us
 
 Title: About us
 
@@ -87,6 +87,18 @@ Text: We have been operating since 1999 with a very long tradition. We started a
 Text: Familiarize yourself with our offers, choose the best car for you and make your dream come true!
 
 Button: Choose your car
+
+### The concept of mobile section - about us
+
+:warning: Add the concept of mobile section - about us !!!
+
+### The concept of tablet section - about us
+
+:warning: Add the concept of tablet section - about us !!!
+
+### The concept of desktop section - about us
+
+:warning: Add the concept of desktop section - about us !!!
 
 ## 4. section - our cars 👍
 
