@@ -55,6 +55,7 @@ Inputs of form:
 - select: select a pickup location
 - date: pick-up date
 - time: pick-up time
+- select: select a drop-off location
 - date: drop-off date
 - time: drop-off time
 - button: Search
