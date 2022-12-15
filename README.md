@@ -81,7 +81,7 @@ Motto text: Find the best car for you in a few moments.
 
 Title: About us
 
-Text: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang, Chevrolet Corvette, Bugatti Chiron, Bentley etc. We also have more classic cars for enthusiasts of classic motoring like: Ferrari Testarossa, Chevrolet Corvette C3, Ford Mustang. All the cars are in great condition!
+Text: Welcome! We are Sports Cars Rental from Poland and this is our company! We specialize in delivering sports and luxury cars to our clients. In our assortment we have a lot of kinds expensive cars like: Lamborghini, Ferrari, Ford Mustang etc. We also have more classic cars for enthusiasts of classic motoring. All the cars are in great condition!
 
 Text: We have been operating since 1999 with a very long tradition. We started as a small company with a few sports cars, and now we serve clients and companies from all over Poland! Our cars also occurs in the many car events. We have got a lot of awards and distinctions!
 
@@ -101,391 +101,87 @@ Button: Choose your car
 
 :warning: Add the concept of desktop section - about us !!!
 
-## 4. section - our cars 👍
+## 4. section - our cars
 
-### 1. Lamborghini Huracan
+### 1. Lamborghini Huracan Evo
 
-#### Image link:
-
-[https://pixabay.com/pl/photos/lamborghini-huracan-4815249/](https://pixabay.com/pl/photos/lamborghini-huracan-4815249/)
-
-#### Title: Lamborghini Huracan
-
-#### Main price: 50.000 zł
+[https://pixabay.com/pl/photos/samoch%c3%b3d-droga-luksus-supersamoch%c3%b3d-6779247/](https://pixabay.com/pl/photos/samoch%c3%b3d-droga-luksus-supersamoch%c3%b3d-6779247/)
 
 #### Specyfication:
 
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
+- power = 640 KM / 560 Nm
+- 0-100 = 2.9 s
 - number of seats = 2
 - max speed = 325 km/h
+- gearbox = Automatic
 
-#### Price list:
+#### Price: 5000.00 zł / day
 
-- 2-3 days = 4500 zł / za dobę,
-- 4-6 days = 3500 zł / za dobę
-- 7-13 days = 2750 zł / za dobę
-- 14-29 days = 2500 zł / za dobę
-- month = 50.000 zł
+#### Footer: button: Rent now (active)
 
-#### Footer:
+### 2. Ferrari F8 Tributo
 
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 2. Ferrari F430
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/](https://pixabay.com/pl/photos/ferrari-f430-ferrari-supersamoch%c3%b3d-2930661/)
-
-#### Title: Ferrari F430
-
-#### Main price: 45.000 zł
+[https://pixabay.com/pl/photos/ferrari-f8-tributo-supersamoch%c3%b3d-5922873/](https://pixabay.com/pl/photos/ferrari-f8-tributo-supersamoch%c3%b3d-5922873/)
 
 #### Specyfication:
 
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
+- power = 720 KM / 770 Nm
+- 0-100 = 2.9 s
 - number of seats = 2
-- max speed = 325 km/h
+- max speed = 340 km/h
+- gearbox = Automatic
 
-#### Price list:
+#### Price: 5000.00 zł / day
 
-- 2-3 days = 4000 zł / za dobę
-- 4-6 days = 3400 zł / za dobę
-- 7-13 days = 2500 zł / za dobę
-- 14-29 days = 2200 zł / za dobę
-- month = 45.000 zł
+#### Footer: button: Rent now (active)
 
-#### Footer:
+### 3. Porsche 911 Carrera
 
-button: Rent this car
+[https://pixabay.com/pl/photos/porsche-911-carrera-automatycznie-1900293/](https://pixabay.com/pl/photos/porsche-911-carrera-automatycznie-1900293/)
 
-p: This car is available at the moment!
+#### Specyfication:
 
-### 3. Ford Mustang GT500
+- power = 450 KM / 530 Nm
+- 0-100 = 3.4 s
+- number of seats = 4
+- max speed = 305 km/h
+- gearbox = Automatic
 
-#### Image link:
+#### Price: 2200.00 zł / day
+
+#### Footer: button: Not available now (not active)
+
+### 4. Mercedes AMG
+
+[https://pixabay.com/pl/photos/mercedes-amg-gt-4-drzwiowe-coupe-6942525/](https://pixabay.com/pl/photos/mercedes-amg-gt-4-drzwiowe-coupe-6942525/)
+
+#### Specyfication:
+
+- power = 639 KM / 900 Nm
+- 0-100 = 3.2 s
+- number of seats = 5
+- max speed = 315 km/h
+- gearbox = Automatic
+
+#### Price: 3000.00 zł / day
+
+#### Footer: button: Rent now (active)
+
+### 5. Ford Mustang GT
 
 [https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/](https://pixabay.com/pl/photos/samoch%c3%b3d-pojazd-mustang-3344988/)
 
-#### Title: Ford Mustang GT500
-
-#### Main price: 40.000 zł
-
 #### Specyfication:
 
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
+- power = 450 KM / 529 Nm
+- 0-100 = 4.3 s
+- number of seats = 4
+- max speed = 290 km/h
 - gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
 
-#### Price list:
+#### Price: 750.00 zł / day
 
-- 2-3 days = 3500 zł / za dobę
-- 4-6 days = 3000 zł / za dobę
-- 7-13 days = 2500 zł / za dobę
-- 14-29 days = 2000 zł / za dobę
-- month = 40.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is not available at the moment!
-
-### 4. Chevrolet corvette
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/](https://pixabay.com/pl/photos/corvette-stingray-samoch%c3%b3d-6483116/)
-
-#### Title: Chevrolet corvette
-
-#### Main price: 30.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 2000 zł / za dobę
-- 4-6 days = 1700 zł / za dobę
-- 7-13 days = 1500 zł / za dobę
-- 14-29 days = 1200 zł / za dobę
-- month = 30.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 5. Bugatti Chiron
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/](https://pixabay.com/pl/photos/samoch%c3%b3d-poka%c5%bc-samoch%c3%b3d-automatyczny-5774774/)
-
-#### Title: Bugatti Chiron
-
-#### Main price: 120.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 8000 zł / za dobę
-- 4-6 days = 7500 zł / za dobę
-- 7-13 days = 7200 zł / za dobę
-- 14-29 days = 6700 zł / za dobę
-- month = 120.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 6. Bentley
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/](https://pixabay.com/pl/photos/bentley-samoch%c3%b3d-pojazd-5588541/)
-
-#### Title: Bentley
-
-#### Main price: 220.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 10000 zł / za dobę
-- 4-6 days = 9500 zł / za dobę
-- 7-13 days = 9000 zł / za dobę
-- 14-29 days = 8500 zł / za dobę
-- month = 220.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 7. BMW M4
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/](https://pixabay.com/pl/photos/bmw-m4-zamienny-bmw-m4-3169357/)
-
-#### Title: BMW M4
-
-#### Main price: 15.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 2000 zł / za dobę
-- 4-6 days = 1500 zł / za dobę
-- 7-13 days = 1200 zł / za dobę
-- 14-29 days = 700 zł / za dobę
-- month = 15.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is not available at the moment!
-
-### 8. Mercedes-Benz G-Class
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/](https://pixabay.com/pl/photos/mercedes-benz-luksusowy-samoch%c3%b3d-5263081/)
-
-#### Title: Mercedes-Benz G-Class
-
-#### Main price: 18.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 2200 zł / za dobę
-- 4-6 days = 1600 zł / za dobę
-- 7-13 days = 1400 zł / za dobę
-- 14-29 days = 900 zł / za dobę
-- month = 18.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 9. Ferrari Testarossa
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/](https://pixabay.com/pl/photos/obw%c3%b3d-%c5%9bledzi%c4%87-pr%c4%99dko%c5%9b%c4%87-szybki-5183476/)
-
-#### Title: Ferrari Testarossa
-
-#### Main price: 65.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 6000 zł / za dobę
-- 4-6 days = 5500 zł / za dobę
-- 7-13 days = 5000 zł / za dobę
-- 14-29 days = 4500 zł / za dobę
-- month = 65.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 10. Chevrolet Corvette C3
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/](https://pixabay.com/pl/photos/samoch%c3%b3d-chevrolet-5573484/)
-
-#### Title: Chevrolet Corvette C3
-
-#### Main price: 40.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 4000 zł / za dobę
-- 4-6 days = 3500 zł / za dobę
-- 7-13 days = 2000 zł / za dobę
-- 14-29 days = 1500 zł / za dobę
-- month = 40.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
-
-### 11. Ford Mustang
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/](https://pixabay.com/pl/photos/samoch%c3%b3d-zabytkowy-samoch%c3%b3d-2386917/)
-
-#### Title: Ford Mustang
-
-#### Main price: 18.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 3000 zł / za dobę
-- 4-6 days = 2500 zł / za dobę
-- 7-13 days = 1000 zł / za dobę
-- 14-29 days = 800 zł / za dobę
-- month = 18.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is not available at the moment!
-
-### 12. Dodge Challenger
-
-#### Image link:
-
-[https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/](https://pixabay.com/pl/photos/dodge-challenger-srt8-b%c4%99dzie-4418202/)
-
-#### Title: Dodge Challenger
-
-#### Main price: 45.000 zł
-
-#### Specyfication:
-
-- power = 610 KM / 560 Nm
-- 0-100 = 3.2 s
-- gearbox = Automatic
-- number of seats = 2
-- max speed = 325 km/h
-
-#### Price list:
-
-- 2-3 days = 4000 zł / za dobę
-- 4-6 days = 3500 zł / za dobę
-- 7-13 days = 2500 zł / za dobę
-- 14-29 days = 2000 zł / za dobę
-- month = 45.000 zł
-
-#### Footer:
-
-button: Rent this car
-
-p: This car is available at the moment!
+#### Footer: button: Rent now (active)
 
 ## 5. section - opinions
 
