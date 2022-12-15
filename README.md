@@ -265,12 +265,24 @@ The cars are nice, but the prices are too high.<br>
 
 :warning: Add the concept of desktop section - opinions !!!
 
-## 6. section - statistics 👍
+## 6. section - statistics
 
-- cars on offer: 12
-- assistance: 24h / 7
+- cars on offer: 7
+- assistance: 24h / 7 days
 - experience: 23 years
 - locations: 5
+
+### The concept of mobile section - statistics
+
+:warning: Add the concept of mobile section - statistics !!!
+
+### The concept of tablet section - statistics
+
+:warning: Add the concept of tablet section - statistics !!!
+
+### The concept of desktop section - statistics
+
+:warning: Add the concept of desktop section - statistics !!!
 
 ## 7. footer
 
