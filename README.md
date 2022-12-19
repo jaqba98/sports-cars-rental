@@ -304,7 +304,25 @@ Google maps: Warsaw
 
 ### 2. section - contact form
 
-### 3. section - footer navigation
+Inputs of form:
+
+- text: email
+- textarea: message
+- button: Send
+
+Social media: facebook, instagram, youtube
+
+### The concept of mobile section - contact form
+
+:warning: Add the concept of mobile section - contact form !!!
+
+### The concept of tablet section - contact form
+
+:warning: Add the concept of tablet section - contact form !!!
+
+### The concept of desktop section - contact form
+
+:warning: Add the concept of desktop section - contact form !!!
 
 ### 4. section - copyright 👍
 
