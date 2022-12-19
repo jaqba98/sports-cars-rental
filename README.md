@@ -331,7 +331,7 @@ Footer navigation options:
 
 :warning: Add the concept of desktop section - contact form !!!
 
-### 4. section - copyright 👍
+### 4. section - copyright
 
 Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
 
