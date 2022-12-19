@@ -312,6 +312,13 @@ Inputs of form:
 
 Social media: facebook, instagram, youtube
 
+Footer navigation options:
+
+- Home,
+- About us,
+- Our cars,
+- Contact
+
 ### The concept of mobile section - contact form
 
 :warning: Add the concept of mobile section - contact form !!!
