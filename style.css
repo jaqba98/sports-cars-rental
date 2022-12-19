@@ -41,3 +41,15 @@ body {
   border-radius: 2px;
   background-color: #f5f5f5;
 }
+
+.hamburger-line-top-open {
+  transform: translateY(13px) rotate(45deg);
+}
+
+.hamburger-line-middle-open {
+  visibility: hidden;
+}
+
+.hamburger-line-bottom-open {
+  transform: translateY(-13px) rotate(-45deg);
+}
