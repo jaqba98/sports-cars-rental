@@ -36,11 +36,11 @@ Top navigation options:
 
 ### The concept of tablet nav
 
-![mobile nav](concept/sketch/nav/nav-tablet.png)
+![tablet nav](concept/sketch/nav/nav-tablet.png)
 
 ### The concept of desktop nav
 
-:warning: Add the concept of desktop nav !!!
+![desktop nav](concept/sketch/nav/nav-desktop.png)
 
 ## 2. header - make reservation
 
