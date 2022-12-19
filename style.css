@@ -22,8 +22,8 @@ body {
 
 .title {
   color: white;
-  font-size: 5em;
-  letter-spacing: -12px;
+  font-size: 3em;
+  letter-spacing: -0.7rem;
 }
 
 .nav-list {
@@ -31,8 +31,8 @@ body {
 }
 
 .hamburger-btn {
-  width: 4rem;
-  height: 4rem;
+  width: 3rem;
+  height: 3rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,7 +41,7 @@ body {
 
 .hamburger-line {
   width: 100%;
-  height: 12px;
+  height: 7px;
   border-radius: 2px;
   background-color: white;
 }
