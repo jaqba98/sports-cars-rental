@@ -32,11 +32,11 @@ Top navigation options:
 
 ### The concept of mobile nav
 
-![mobile nav](concept/sketch/nav-mobile.jpg)
+![mobile nav](concept/sketch/nav/nav-mobile.jpg)
 
 ### The concept of tablet nav
 
-:warning: Add the concept of tablet nav !!!
+![mobile nav](concept/sketch/nav/nav-tablet.png)
 
 ### The concept of desktop nav
 
