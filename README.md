@@ -334,3 +334,15 @@ Footer navigation options:
 ### 4. section - copyright 👍
 
 Copyright &copy; | Sports Cars Rental by Jakub Olejarczyk
+
+### The concept of mobile section - copyright
+
+:warning: Add the concept of mobile section - copyright !!!
+
+### The concept of tablet section - copyright
+
+:warning: Add the concept of tablet section - copyright !!!
+
+### The concept of desktop section - copyright
+
+:warning: Add the concept of desktop section - copyright !!!
