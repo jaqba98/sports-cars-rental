@@ -6,12 +6,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: hsl(0, 0%, 12%);
+  background-color: hsl(0, 0%, 10%);
 }
 
 .top-nav-logo {
   color: hsl(0, 0%, 95%);
   font-size: 2.5rem;
+  letter-spacing: -0.6rem;
 }
 
 .hamburger {
@@ -36,7 +37,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: hsl(0, 0%, 13%);
+  background-color: hsl(0, 0%, 11%);
   overflow-y: auto;
 }
 
@@ -45,11 +46,10 @@
   display: block;
   padding: 1rem;
   font-size: 1.4em;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
   color: hsl(0, 0%, 50%);
-  background-color: hsl(0, 0%, 14%);
-  border-bottom: 1px solid hsl(0, 0%, 16%);
+  border-bottom: 1px solid hsl(0, 0%, 15%);
   transition: all 0.25s ease-in-out;
 }
 
