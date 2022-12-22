@@ -45,8 +45,17 @@
   display: block;
   padding: 1rem;
   font-size: 1.4em;
+  font-weight: 700;
   text-align: center;
-  color: hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 50%);
   background-color: hsl(0, 0%, 14%);
+  border-bottom: 1px solid hsl(0, 0%, 16%);
+  transition: all 0.25s ease-in-out;
+}
+
+.top-nav-link:hover,
+.top-nav-link:active {
+  color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 0%, 16%);
   border-bottom: 1px solid hsl(0, 0%, 16%);
 }
