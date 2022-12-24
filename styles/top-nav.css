@@ -1,5 +1,6 @@
 /* top-nav styles */
 
+/* top-nav general */
 .top-nav {
   height: 4rem;
   padding: 0.8rem;
@@ -79,4 +80,32 @@
 
 .top-nav-open .hamburger-line:nth-child(3) {
   transform: translateY(-0.8rem) rotateZ(-45deg);
+}
+
+@media (min-width: 768px) {
+  .top-nav {
+    padding: 0.8rem;
+    padding-right: 0;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .top-nav-menu {
+    position: static;
+    overflow-y: auto;
+    transform: translateX(0%);
+    transition: none;
+  }
+
+  .top-nav-menu ul {
+    display: flex;
+  }
+}
+
+@media (min-width: 1024px) {
+  .top-nav {
+    justify-content: space-around;
+  }
 }
