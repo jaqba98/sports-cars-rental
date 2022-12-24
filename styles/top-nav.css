@@ -23,6 +23,7 @@
   align-items: center;
   justify-content: space-around;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .hamburger-line {
@@ -30,6 +31,7 @@
   height: 0.4rem;
   border-radius: 10px;
   background-color: hsl(0, 0%, 95%);
+  transition: all 0.5s ease-in-out;
 }
 
 .top-nav-menu {
@@ -41,7 +43,7 @@
   background-color: hsl(0, 0%, 11%);
   overflow-y: auto;
   transform: translateX(100%);
-  transition: transform 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .top-nav-link:link,
@@ -65,4 +67,16 @@
 
 .top-nav-open .top-nav-menu {
   transform: translateX(0%);
+}
+
+.top-nav-open .hamburger-line:nth-child(1) {
+  transform: translateY(0.8rem) rotateZ(45deg);
+}
+
+.top-nav-open .hamburger-line:nth-child(2) {
+  transform: translateX(100vw);
+}
+
+.top-nav-open .hamburger-line:nth-child(3) {
+  transform: translateY(-0.8rem) rotateZ(-45deg);
 }
