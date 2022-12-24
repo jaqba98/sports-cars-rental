@@ -22,6 +22,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  cursor: pointer;
 }
 
 .hamburger-line {
@@ -39,6 +40,8 @@
   right: 0;
   background-color: hsl(0, 0%, 11%);
   overflow-y: auto;
+  transform: translateX(100%);
+  transition: transform 0.5s ease-in-out;
 }
 
 .top-nav-link:link,
@@ -58,4 +61,8 @@
   color: hsl(0, 0%, 95%);
   background-color: hsl(0, 0%, 20%);
   border-bottom: 1px solid hsl(0, 0%, 20%);
+}
+
+.top-nav-open .top-nav-menu {
+  transform: translateX(0%);
 }
