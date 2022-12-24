@@ -7,6 +7,7 @@
   align-items: center;
   justify-content: space-between;
   background-color: hsl(0, 0%, 10%);
+  overflow: hidden;
 }
 
 .top-nav-logo {
@@ -23,7 +24,6 @@
   align-items: center;
   justify-content: space-around;
   cursor: pointer;
-  overflow: hidden;
 }
 
 .hamburger-line {
