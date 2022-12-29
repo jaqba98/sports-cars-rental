@@ -1,6 +1,6 @@
-const hamburgerEl = document.querySelector(".hamburger");
-const topNavEl = document.querySelector(".top-nav");
+const hamburgerEL = document.getElementById("hamburger");
+const topNavEL = document.getElementById("top-nav");
 
-hamburgerEl.addEventListener("click", () => {
-  topNavEl.classList.toggle("top-nav-open");
-});
+const toggleTopNav = () => topNavEL.classList.toggle("top-nav-open");
+
+hamburgerEL.addEventListener("click", () => toggleTopNav());
