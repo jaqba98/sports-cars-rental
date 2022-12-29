@@ -85,24 +85,28 @@
 }
 
 @media (min-width: 768px) {
-  .top-nav {
-    padding: 0.8em;
-    padding-right: 0;
-  }
-
   .hamburger {
     display: none;
   }
 
   .top-nav-menu {
     position: static;
-    overflow-y: auto;
+    background-color: inherit;
+    border-top: none;
     transform: translateX(0%);
     transition: none;
   }
 
-  .top-nav-menu ul {
+  .top-nav-menu-list {
     display: flex;
+    gap: 1em;
+  }
+
+  .top-nav-menu-link:link,
+  .top-nav-menu-link:visited {
+    padding: 0.5em;
+    margin: 0;
+    cursor: pointer;
   }
 }
 

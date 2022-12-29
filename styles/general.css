@@ -34,3 +34,9 @@ body {
     font-size: 25%;
   }
 }
+
+@media (min-width: 2560px) {
+  body {
+    font-size: 150%;
+  }
+}
