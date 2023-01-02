@@ -20,6 +20,7 @@ a:active {
 /* general styles */
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #e7ecef;
 }
 
 @media (max-width: 100px) {

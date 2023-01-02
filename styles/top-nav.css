@@ -7,7 +7,7 @@
   height: 4em;
   padding: 1em;
   overflow: hidden;
-  background-color: #246eb9;
+  background-color: #274c77;
 }
 
 .top-nav-logo {
@@ -15,7 +15,7 @@
   font-size: 2.75em;
   letter-spacing: -0.2em;
   font-weight: 900;
-  color: #fdfffc;
+  color: #e7ecef;
 }
 
 #hamburger {
@@ -30,8 +30,8 @@
 .hamburger-line {
   width: 100%;
   height: 0.5em;
-  border-radius: 10px;
-  background-color: #fdfffc;
+  border-radius: 3px;
+  background-color: #e7ecef;
   transition: transform 0.2s ease-in-out;
 }
 
@@ -55,7 +55,7 @@
   right: 0;
   overflow-x: hidden;
   overflow-y: auto;
-  background-color: #246eb9;
+  background-color: #274c77;
   transform: translateX(100%);
   transition: transform 0.2s ease-in-out;
 }
@@ -66,7 +66,7 @@
 
 .top-nav-menu-list {
   padding: 1em;
-  background-color: #194d80;
+  background-color: #1f3e60;
 }
 
 .top-nav-menu-link:link,
@@ -74,18 +74,18 @@
   display: block;
   padding: 1em;
   margin: 0.5em;
-  border-radius: 10px;
+  border-radius: 5px;
   font-size: 1.1em;
   letter-spacing: -0.05em;
   text-align: center;
-  background-color: #1d5995;
+  background-color: #23456c;
   color: #fdfffc;
   transition: background-color 0.2s ease-in-out;
 }
 
 .top-nav-menu-link:hover,
 .top-nav-menu-link:active {
-  background-color: #2a80d5;
+  background-color: #386fad;
 }
 
 @media (min-width: 768px) {
@@ -102,7 +102,7 @@
     position: static;
     overflow: auto;
     height: 4em;
-    background-color: #194d80;
+    background-color: transparent;
     transform: translateX(0%);
     transition: none;
   }
@@ -122,7 +122,7 @@
     margin: 0;
     border-radius: 0;
     background-color: transparent;
-    color: #7fb3e6;
+    color: #fcfffa99;
     transition: color 0.2s ease-in-out;
     cursor: pointer;
   }
