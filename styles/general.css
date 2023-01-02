@@ -7,31 +7,30 @@
 
 ul,
 ol {
-  list-style: none;
+  list-style-type: none;
 }
 
 a:link,
 a:visited,
 a:hover,
 a:active {
-  text-decoration: none;
+  text-decoration-line: none;
 }
 
 /* general styles */
 body {
-  font-size: 100%;
   font-family: "Roboto", sans-serif;
 }
 
-@media (max-width: 175px) {
+@media (max-width: 100px) {
   body {
-    font-size: 50%;
+    font-size: 30%;
   }
 }
 
-@media (max-width: 75px) {
+@media (min-width: 100px) and (max-width: 175px) {
   body {
-    font-size: 25%;
+    font-size: 60%;
   }
 }
 
