@@ -1,1 +1,26 @@
 /* make reservation */
+
+.make-reservation-form {
+  background-color: #fbfcff;
+  padding: 2em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
+
+.make-reservation-form label,
+.make-reservation-form input {
+  display: block;
+}
+
+.make-reservation-form input,
+.make-reservation-form select {
+  width: 100%;
+}
+
+.make-reservation-title,
+.localization-section,
+.make-reservation-submit {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}

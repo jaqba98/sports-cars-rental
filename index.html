@@ -46,9 +46,44 @@
       </nav>
     </section>
     <!-- header make reservation -->
-    <header class="make-reservation">
+    <header id="make-reservation">
+      <!-- make reservation video -->
       <section class="make-reservation-video"></section>
-      <section class="make-reservation-form"></section>
+      <!-- make reservation form -->
+      <section class="make-reservation-form">
+        <p class="make-reservation-title">Make Reservation Now!</p>
+        <div class="localization-section">
+          <label for="localization">Localization</label>
+          <select name="localization" id="localization">
+            <option value="warsaw">Warsaw</option>
+            <option value="berlin">Berlin</option>
+            <option value="vienna">Vienna</option>
+            <option value="paris">Paris</option>
+            <option value="madrid">Madrid</option>
+            <option value="vilnius">Vilnius</option>
+            <option value="monaco">Monaco</option>
+            <option value="lisbon">Lisbon</option>
+            <option value="budapest">Budapest</option>
+            <option value="london">London</option>
+            <option value="rome">Rome</option>
+          </select>
+        </div>
+        <div class="date-from-section">
+          <p>Date from</p>
+          <label for="date-from">Date</label>
+          <input type="date" id="date-from" />
+          <label for="date-from-time">Time</label>
+          <input type="time" id="date-from-time" />
+        </div>
+        <div class="date-to-section">
+          <p>Date to</p>
+          <label for="date-to">Date</label>
+          <input type="date" id="date-to" />
+          <label for="date-to-time">Time</label>
+          <input type="time" id="date-to-time" />
+        </div>
+        <input type="submit" value="Search" class="make-reservation-submit" />
+      </section>
     </header>
   </body>
 </html>
