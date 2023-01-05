@@ -1,21 +1,12 @@
 /* make reservation */
 
 .make-reservation-form {
-  background-color: #fbfcff;
-  padding: 2em;
+  background-color: #ffffff;
+  color: #343434;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1em;
-}
-
-.make-reservation-form label,
-.make-reservation-form input {
-  display: block;
-}
-
-.make-reservation-form input,
-.make-reservation-form select {
-  width: 100%;
+  gap: 2em;
+  padding: 2em;
 }
 
 .make-reservation-title,
@@ -23,4 +14,54 @@
 .make-reservation-submit {
   grid-column-start: 1;
   grid-column-end: 3;
+}
+
+.make-reservation-form input {
+  display: block;
+}
+
+.make-reservation-form input,
+.make-reservation-form select {
+  width: 100%;
+  padding: 10px;
+}
+
+.localization-section,
+.date-from-section,
+.date-to-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.make-reservation-title {
+  color: #274c77;
+  font-size: 1.2em;
+  font-weight: 500;
+  letter-spacing: -0.4px;
+}
+
+.localization-title,
+.date-from-title,
+.date-to-title {
+  color: #706f6f;
+  letter-spacing: -0.4px;
+  font-size: 1.1em;
+}
+
+.localization-input,
+.data-from-input,
+.data-to-input,
+.time-from-input,
+.time-to-input {
+  border: 1px solid #706f6f;
+  color: #706f6f;
+  border-radius: 10px;
+}
+
+.make-reservation-submit {
+  border: 1px solid #274c77;
+  background-color: #274c77;
+  color: #fdfffc;
+  border-radius: 10px;
 }

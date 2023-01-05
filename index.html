@@ -53,8 +53,8 @@
       <section class="make-reservation-form">
         <p class="make-reservation-title">Make Reservation Now!</p>
         <div class="localization-section">
-          <label for="localization">Localization</label>
-          <select name="localization" id="localization">
+          <p class="localization-title">Localization</p>
+          <select name="localization" class="localization-input">
             <option value="warsaw">Warsaw</option>
             <option value="berlin">Berlin</option>
             <option value="vienna">Vienna</option>
@@ -69,18 +69,14 @@
           </select>
         </div>
         <div class="date-from-section">
-          <p>Date from</p>
-          <label for="date-from">Date</label>
-          <input type="date" id="date-from" />
-          <label for="date-from-time">Time</label>
-          <input type="time" id="date-from-time" />
+          <p class="date-from-title">Date from</p>
+          <input type="date" name="data-from" class="data-from-input" />
+          <input type="time" name="data-time" class="time-from-input" />
         </div>
         <div class="date-to-section">
-          <p>Date to</p>
-          <label for="date-to">Date</label>
-          <input type="date" id="date-to" />
-          <label for="date-to-time">Time</label>
-          <input type="time" id="date-to-time" />
+          <p class="date-to-title">Date to</p>
+          <input type="date" name="data-to" class="data-to-input" />
+          <input type="time" name="time-to" class="time-to-input" />
         </div>
         <input type="submit" value="Search" class="make-reservation-submit" />
       </section>
