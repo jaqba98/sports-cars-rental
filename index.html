@@ -46,15 +46,15 @@
       </nav>
     </section>
     <!-- header make reservation -->
-    <header id="make-reservation">
+    <header class="make-reservation">
       <!-- make reservation video -->
       <section class="make-reservation-video"></section>
       <!-- make reservation form -->
       <section class="make-reservation-form">
         <p class="make-reservation-title">Make Reservation Now!</p>
         <div class="localization-section">
-          <p class="localization-title">Localization</p>
-          <select name="localization" class="localization-input">
+          <label for="localization-select">Localization</label>
+          <select name="localization" id="localization-select">
             <option value="warsaw">Warsaw</option>
             <option value="berlin">Berlin</option>
             <option value="vienna">Vienna</option>
@@ -69,14 +69,16 @@
           </select>
         </div>
         <div class="date-from-section">
-          <p class="date-from-title">Date from</p>
-          <input type="date" name="data-from" class="data-from-input" />
-          <input type="time" name="data-time" class="time-from-input" />
+          <label for="date-from-input">Date from</label>
+          <input type="date" name="data-from" id="data-from-input" />
+          <label for="pick-up-time-input">Pick up time</label>
+          <input type="time" name="pick-up-time" id="pick-up-time-input" />
         </div>
         <div class="date-to-section">
-          <p class="date-to-title">Date to</p>
-          <input type="date" name="data-to" class="data-to-input" />
-          <input type="time" name="time-to" class="time-to-input" />
+          <label for="date-to-input">Date to</label>
+          <input type="date" name="data-to" id="data-to-input" />
+          <label for="return-time-input">Return time</label>
+          <input type="time" name="return-time" id="return-time-input" />
         </div>
         <input type="submit" value="Search" class="make-reservation-submit" />
       </section>

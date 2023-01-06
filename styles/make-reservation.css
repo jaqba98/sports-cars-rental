@@ -1,74 +1,45 @@
-/* make reservation */
+/* header make reservation */
 
 .make-reservation-form {
-  background-color: #ffffff;
-  color: #343434;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5em;
+  background-color: hsl(0, 0%, 100%);
   padding: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
 }
 
-.make-reservation-title,
-.localization-section,
-.make-reservation-submit {
-  grid-column-start: 1;
-  grid-column-end: 3;
-}
-
+.make-reservation-form label,
+.make-reservation-form select,
 .make-reservation-form input {
   display: block;
 }
 
-.make-reservation-form input,
-.make-reservation-form select {
-  padding: 0.7rem;
-}
-
-.localization-section,
-.date-from-section,
-.date-to-section {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5em;
-}
-
 .make-reservation-title {
-  color: #274c77;
   font-size: 1.2em;
-  font-weight: 500;
-  letter-spacing: -0.4px;
+  font-weight: 700;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  letter-spacing: -1px;
+  text-align: center;
+  color: #274c77;
 }
 
-.localization-title,
-.date-from-title,
-.date-to-title {
-  color: #706f6f;
-  letter-spacing: -0.4px;
-  font-size: 1.1em;
-}
-
-.localization-input,
-.data-from-input,
-.data-to-input,
-.time-from-input,
-.time-to-input {
-  border: 1px solid #706f6f;
-  color: #706f6f;
-  border-radius: 10px;
-}
-
+#localization-select,
+#data-from-input,
+#pick-up-time-input,
+#data-to-input,
+#return-time-input,
 .make-reservation-submit {
-  border: none;
-  background-color: #274c77;
-  color: #fdfffc;
-  border-radius: 10px;
+  width: 100%;
+  padding: 10px;
 }
 
-@media (max-width: 370px) {
-  .date-from-section,
-  .date-to-section {
-    grid-column-start: 1;
-    grid-column-end: 3;
-  }
+.make-reservation-form label {
+  font-size: 0.75em;
+  margin-bottom: 2px;
+  color: #65655e;
+}
+
+#data-from-input,
+#data-to-input {
+  margin-bottom: 15px;
 }
