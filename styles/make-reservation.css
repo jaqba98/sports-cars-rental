@@ -32,7 +32,15 @@
   width: 100%;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid lightgrey;
+}
+
+#localization-select,
+#data-from-input,
+#pick-up-time-input,
+#data-to-input,
+#return-time-input {
+  border: 1px solid #e6e6e6;
+  background-color: #fafafa;
 }
 
 .make-reservation-form label {
