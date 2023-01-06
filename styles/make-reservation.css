@@ -1,7 +1,7 @@
 /* header make reservation */
 
 .make-reservation-form {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #ffffff;
   padding: 2em;
   display: flex;
   flex-direction: column;
@@ -41,6 +41,20 @@
 #return-time-input {
   border: 1px solid #e6e6e6;
   background-color: #fafafa;
+}
+
+.make-reservation-submit {
+  border: 1px solid #274c77;
+  background-color: #274c77;
+  color: #e7ecef;
+  font-weight: 700;
+  width: 100px;
+}
+
+.make-reservation-submit:hover,
+.make-reservation-submit:active {
+  border: 1px solid #32639a;
+  background-color: #32639a;
 }
 
 .make-reservation-form label {
