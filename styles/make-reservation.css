@@ -1,5 +1,9 @@
 /* header make reservation */
 
+.make-reservation-video {
+  width: 100%;
+}
+
 .make-reservation-form {
   background-color: #ffffff;
   padding: 2em;
