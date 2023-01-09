@@ -62,8 +62,8 @@ Inputs of form:
 
 ### Motto of header
 
-Motto title: Make your dreams come true!<br>
-Motto text: Find the best car for you in a few moments.
+Motto title: Sports Cars Rental<br>
+Motto text: Make your dreams come true
 
 ### The concept of mobile header
 

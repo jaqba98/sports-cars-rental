@@ -1,7 +1,39 @@
 /* header make reservation */
 
-.make-reservation-video {
+.make-reservation-section {
   width: 100%;
+  height: 50vh;
+  background-image: url("../assets/porsche.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.make-reservation-content {
+  background-image: linear-gradient(
+    to bottom,
+    hsla(212, 51%, 31%, 100%),
+    hsla(212, 51%, 31%, 80%)
+  );
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  text-align: center;
+  letter-spacing: -1.2px;
+  color: #e7ecef;
+  font-weight: bold;
+  padding: 2em;
+}
+
+.make-reservation-content h2 {
+  font-size: 1.8em;
+}
+
+.make-reservation-content p {
+  font-size: 1.25em;
 }
 
 .make-reservation-form {
