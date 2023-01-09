@@ -9,31 +9,27 @@
 }
 
 .make-reservation-content {
-  background-image: linear-gradient(
-    to bottom,
-    hsla(212, 51%, 31%, 100%),
-    hsla(212, 51%, 31%, 80%)
-  );
   width: 100%;
   height: 100%;
+  padding: 2em;
+  background-image: linear-gradient(to bottom, #274c77, #274c77cc);
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   gap: 1em;
   text-align: center;
+  font-weight: 700;
   letter-spacing: -1.2px;
   color: #e7ecef;
-  font-weight: bold;
-  padding: 2em;
 }
 
 .make-reservation-content h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
 }
 
 .make-reservation-content p {
-  font-size: 1.25em;
+  font-size: 1.1em;
 }
 
 .make-reservation-form {
@@ -66,7 +62,8 @@
 #return-time-input,
 .make-reservation-submit {
   width: 100%;
-  padding: 10px;
+  padding: 0.8em;
+  font-size: 1em;
   border-radius: 5px;
 }
 
@@ -84,7 +81,7 @@
   background-color: #274c77;
   color: #e7ecef;
   font-weight: 700;
-  width: 100px;
+  max-width: 100px;
 }
 
 .make-reservation-submit:hover,
@@ -102,4 +99,18 @@
 #data-from-input,
 #data-to-input {
   margin-bottom: 15px;
+}
+
+@media (max-width: 300px) {
+  .make-reservation-section {
+    height: 25vh;
+  }
+
+  .make-reservation-content h2 {
+    font-size: 8vw;
+  }
+
+  .make-reservation-content p {
+    font-size: 6vw;
+  }
 }
