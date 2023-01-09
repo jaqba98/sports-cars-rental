@@ -71,11 +71,11 @@ Motto text: Make your dreams come true
 
 ### The concept of tablet header
 
-:warning: Add the concept of tablet header !!!
+![mobile nav](concept/sketch/header-make-reservation/header-make-reservation-tablet-desktop.jpg)
 
 ### The concept of desktop header
 
-:warning: Add the concept of desktop header !!!
+![mobile nav](concept/sketch/header-make-reservation/header-make-reservation-tablet-desktop.jpg)
 
 ## 3. section - about us
 
