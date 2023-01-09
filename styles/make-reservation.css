@@ -114,3 +114,38 @@
     font-size: 6vw;
   }
 }
+
+@media (min-width: 768px) {
+  .make-reservation {
+    display: flex;
+    height: calc(100vh - 4em);
+  }
+
+  .make-reservation-section {
+    flex: 2;
+    height: 100%;
+  }
+
+  .make-reservation-form {
+    flex: 1;
+    height: 100%;
+  }
+
+  .make-reservation-content h2 {
+    font-size: 2.5em;
+  }
+
+  .make-reservation-content p {
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .make-reservation-content h2 {
+    font-size: 3.5em;
+  }
+
+  .make-reservation-content p {
+    font-size: 2em;
+  }
+}
